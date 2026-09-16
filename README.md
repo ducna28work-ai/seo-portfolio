@@ -1,237 +1,174 @@
-# SEO Portfolio 🔍
+# SEO & Digital Marketing Portfolio 🚀
 
-A practical portfolio documenting my work, frameworks, and projects in Search Engine Optimization (SEO).
+A practical portfolio documenting my experience in **SEO, content optimization, website optimization, analytics, and digital marketing** for travel websites serving Inbound and Domestic tourism markets.
 
-My focus is on connecting **search intent, content strategy, technical optimization, internal linking, and performance measurement** to build sustainable organic search performance.
-
----
-
-## 👨‍💻 About Me
-
-I'm a Digital Marketing Specialist with a focus on:
-
-- 🔍 SEO & Technical SEO
-- 📊 Google Ads
-- 📈 GA4 & Google Tag Manager
-- 🌐 WordPress
-- ✍️ SEO Content & Content Strategy
-- 📱 Zalo/ZNS Marketing
-
-My SEO work covers the process from keyword research and content planning to technical optimization, internal linking, and performance analysis.
+This repository focuses on **real-world workflows, practical implementation, and problem-solving approaches** rather than theoretical knowledge alone.
 
 ---
 
-## 🎯 SEO Focus
+## 👋 About Me
 
-I approach SEO through five core areas:
+I am a Digital Marketing professional focused on **SEO and website optimization**, with hands-on experience working with travel websites and digital marketing campaigns.
 
-| Area | Focus |
-| --- | --- |
-| 🔍 Keyword Research | Keyword discovery, search intent, clustering and mapping |
-| 🧩 Content Strategy | Topic clusters, content planning and content optimization |
-| ⚙️ Technical SEO | Crawling, indexing, canonicalization and technical issues |
-| 🔗 On-Page SEO | Titles, headings, internal links and content structure |
-| 📈 SEO Measurement | Google Search Console, GA4 and performance analysis |
+My work covers the full SEO workflow, from research and strategy to implementation, measurement, and continuous optimization.
 
----
+### Core Focus
 
-## 🧠 SEO Skills
-
-### Keyword Research
-
-- Keyword discovery and expansion
-- Search intent analysis
-- Keyword grouping
-- Keyword classification
-- Keyword mapping
-- Commercial vs. informational intent
-- Long-tail keyword research
-
-### Topic Clustering
-
-- Pillar page planning
-- Cluster content planning
-- Semantic topic grouping
-- Search intent mapping
-- Content hierarchy
-- Internal linking structure
-- Keyword cannibalization prevention
-
-### On-Page SEO
-
-- Title tag optimization
-- Meta description optimization
-- H1-H3 structure
-- Content structure
-- Internal linking
-- Anchor text optimization
-- Image optimization
-- FAQ optimization
-- Search intent alignment
-
-### Technical SEO
-
-- Crawlability
-- Indexation
-- Canonicalization
-- Robots.txt
-- XML Sitemap
-- Noindex management
-- Duplicate URLs
-- Redirects
-- Basic Core Web Vitals analysis
-- Google Search Console coverage issues
-
-### Content SEO
-
-- SEO content planning
-- Content briefs
-- Search intent analysis
-- PAA research
-- FAQ development
-- Content optimization
-- Content gap analysis
-- E-E-A-T-oriented content structure
-
-### SEO Measurement
-
+- SEO Strategy
+- Keyword Research
+- Search Intent Analysis
+- Topic Clustering
+- Content Optimization
+- On-Page SEO
+- Technical SEO
+- Internal Linking
+- WordPress Website Optimization
+- UX/UI Optimization
 - Google Search Console
-- Google Analytics 4
-- Organic traffic analysis
-- Search query analysis
-- Landing page performance
-- CTR analysis
-- Conversion tracking
-- SEO performance reporting
+- GA4
+- Google Tag Manager
+- Google Ads
+- Zalo/ZNS Marketing
 
 ---
 
-## 🛠️ Tools
+# 🧠 SEO Frameworks
 
-| Tool | Usage |
-| --- | --- |
-| Google Search Console | Search performance, queries and indexation |
-| Google Analytics 4 | Traffic and user behavior analysis |
-| Google Tag Manager | Event and conversion tracking |
-| Screaming Frog | Technical SEO audits |
-| Google Ads | Keyword research and paid search |
-| Google Keyword Planner | Keyword research |
-| WordPress | Website and content management |
-| Ahrefs | Keyword and backlink research |
-| Semrush | SEO research and competitive analysis |
-| Microsoft Clarity | User behavior and UX analysis |
+Practical frameworks and methodologies used throughout SEO projects.
+
+### 🔎 Keyword Research
+
+Research, classify, cluster, and map keywords based on search intent and business relevance.
+
+[View Keyword Research Framework](./frameworks/keyword-research/)
+
+### 🧩 Topic Clustering
+
+Build pillar and supporting content structures around related search topics.
+
+[View Topic Clustering Framework](./frameworks/topic-clustering/)
+
+### 📄 On-Page SEO
+
+Optimize page structure, titles, headings, content, internal links, images, FAQ, and user experience.
+
+[View On-Page SEO Framework](./frameworks/on-page-seo/)
+
+### 🔧 Technical SEO
+
+Audit and optimize crawlability, indexation, canonicalization, sitemap, redirects, URL structure, and technical website health.
+
+[View Technical SEO Framework](./frameworks/technical-seo/)
+
+### ✍️ Content Optimization
+
+Improve existing content based on search intent, topical relevance, information coverage, UX, and conversion potential.
+
+[View Content Optimization Framework](./frameworks/content-optimization/)
 
 ---
 
-## 📂 Portfolio Projects
+# 💼 Case Studies
 
-### 🔍 01. Keyword Research
+Practical case studies demonstrating how SEO concepts were applied to real website workflows.
 
-A practical framework for discovering, classifying, grouping, and mapping keywords based on search intent and business objectives.
+> **Confidentiality Note:** Business-sensitive information, customer data, internal data, performance figures, budgets, and account information are intentionally excluded from public case studies.
+
+### 🌐 Travel Website SEO & Website Optimization
+
+End-to-end SEO and website optimization for a travel website serving Inbound and Domestic tourism markets.
 
 **Focus:**
 
-- Keyword discovery
-- Search intent
-- Keyword grouping
-- Keyword mapping
-- Commercial intent
-- Informational intent
-- Long-tail keywords
+SEO Strategy · Content · Technical SEO · Internal Linking · WordPress · UX/UI · Analytics
+
+[View Case Study](./case-studies/seo-website-optimization/)
 
 ---
 
-### 🧩 02. Topic Clustering
+### 🔧 Technical SEO & Google Search Console
 
-A framework for developing pillar and cluster content while creating a clear relationship between topics and search intent.
+A technical SEO case study focused on crawlability, indexation, canonicalization, URL structure, and Search Console monitoring.
 
 **Focus:**
 
-- Pillar pages
-- Cluster pages
-- Semantic relationships
-- Search intent
-- Content hierarchy
-- Internal linking
-- Keyword cannibalization
+Technical SEO · GSC · Indexation · Canonical · Sitemap · Crawling · Validation
+
+[View Case Study](./case-studies/technical-seo-gsc/)
 
 ---
 
-### 🔗 03. On-Page SEO
+### ✍️ Travel Content Optimization
 
-Practical examples of optimizing website pages to improve relevance, structure, crawlability, and user experience.
+Content optimization focused on search intent, content structure, topical coverage, internal linking, UX, and conversion-oriented content.
 
 **Focus:**
 
-- Title tags
-- Meta descriptions
-- Heading structure
-- Internal links
-- Anchor text
-- Content structure
-- FAQ
-- Image optimization
+Content Audit · Search Intent · On-Page SEO · E-E-A-T · UX · Conversion
+
+[View Case Study](./case-studies/content-optimization/)
 
 ---
 
-### ⚙️ 04. Technical SEO
+### 🔗 Internal Linking & Content Architecture
 
-Technical SEO checks and implementation examples focused on making websites easier for search engines to crawl, understand, and index.
+A practical approach to building internal linking structures between destination content, supporting articles, and commercial travel pages.
 
 **Focus:**
 
-- Indexation
-- Crawlability
-- Canonicals
-- XML Sitemap
-- Robots.txt
-- Noindex
-- Redirects
-- Duplicate URLs
-- Google Search Console issues
+Internal Linking · Anchor Text · Topic Clusters · Content Architecture · Priority Pages
+
+[View Case Study](./case-studies/internal-linking/)
 
 ---
 
-### ✍️ 05. Content Optimization
+### 🔎 Keyword Clustering & Search Intent
 
-A practical framework for improving existing content based on search intent, search queries, content gaps, and user experience.
+A practical keyword research and clustering workflow for organizing search queries and mapping them to appropriate pages.
 
 **Focus:**
 
-- Search intent alignment
-- Content gaps
-- Content structure
-- Keyword usage
-- Internal linking
-- FAQ
-- PAA
-- E-E-A-T
+Keyword Research · Search Intent · SERP Analysis · Keyword Mapping · Cannibalization
+
+[View Case Study](./case-studies/keyword-clustering/)
 
 ---
 
-## 📊 SEO Workflow
+# 🛠️ Tools & Technologies
+
+| Area | Tools |
+|---|---|
+| SEO | Google Search Console, Screaming Frog |
+| Analytics | GA4 |
+| Tracking | Google Tag Manager |
+| Website | WordPress |
+| Advertising | Google Ads |
+| Marketing Automation | Zalo/ZNS |
+| Content | WordPress, AI-assisted workflows |
+
+---
+
+# 🔄 My SEO Workflow
 
 ```text
-Keyword Research
-       ↓
-Search Intent Analysis
-       ↓
-Keyword Mapping
-       ↓
-Topic Clustering
-       ↓
-Content Planning
-       ↓
-Content Creation
-       ↓
-On-Page SEO
-       ↓
+Research
+   ↓
+Search Intent
+   ↓
+Keyword Clustering
+   ↓
+Content & Page Mapping
+   ↓
+Technical Audit
+   ↓
+On-Page Optimization
+   ↓
+Content Optimization
+   ↓
 Internal Linking
-       ↓
-Technical SEO
-       ↓
-Google Search Console
-       ↓
-Performance Analysis
-       ↓
-Optimization
+   ↓
+UX / Website Optimization
+   ↓
+Tracking & Measurement
+   ↓
+Continuous Optimization
