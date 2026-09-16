@@ -1,8 +1,8 @@
 # Technical SEO & Google Search Console Case Study 🔧
 
-A practical technical SEO project focused on improving crawlability, indexation, website structure, and search performance monitoring for a travel website serving Inbound and Domestic tourism markets.
+A practical technical SEO project focused on improving crawlability, indexation, website structure, and organic search performance monitoring for a travel website serving Inbound and Domestic tourism markets.
 
-> **Confidentiality Note:** Specific performance figures, business-sensitive information, customer data, account information, and internal company data have been omitted to protect confidentiality.
+> **Confidentiality Note:** Sensitive business information, customer data, account information, and internal company data have been omitted. The performance metrics shown in this case study are limited to aggregated Google Search Console data that can be presented for portfolio purposes.
 
 ---
 
@@ -31,11 +31,11 @@ The objective was to improve the technical foundation of the website so that sea
 - Index appropriate URLs
 - Re-evaluate optimized pages
 
-The project also established a more systematic workflow for identifying and monitoring technical SEO issues.
+The project also established a more systematic workflow for identifying, prioritizing, fixing, and monitoring technical SEO issues.
 
 ---
 
-# ⚠️ Technical SEO Challenges
+## ⚠️ Technical SEO Challenges
 
 Travel websites can contain a large number of URLs generated from products, categories, content, filters, pagination, and other website functions.
 
@@ -48,14 +48,14 @@ This can create technical SEO challenges such as:
 - Weak internal linking
 - Crawl inefficiencies
 - Unclear URL structures
-- Pages requiring noindex
+- Pages requiring `noindex`
 - Sitemap and indexation mismatches
 
 The first step was therefore to understand the website's technical structure before making individual fixes.
 
 ---
 
-# 🔍 Technical SEO Audit Process
+## 🔍 Technical SEO Audit Process
 
 The audit followed a structured workflow:
 
