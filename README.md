@@ -2,7 +2,7 @@
 
 A practical portfolio documenting my hands-on experience in **SEO, content optimization, website optimization, analytics, and digital marketing** for travel websites serving Inbound and Domestic tourism markets.
 
-This repository focuses on **real-world implementation, practical workflows, problem-solving, and measurable outcomes** rather than theoretical knowledge alone.
+This repository focuses on **real-world implementation, practical workflows, problem-solving, and shareable evidence** rather than theoretical knowledge alone.
 
 ---
 
@@ -10,7 +10,7 @@ This repository focuses on **real-world implementation, practical workflows, pro
 
 I am a Digital Marketing professional focused on **SEO and website optimization**, with hands-on experience across travel websites and digital marketing activities.
 
-My work covers the full workflow from **research and strategy to implementation, measurement, and continuous optimization**.
+My work covers the workflow from **research and strategy to implementation, measurement, and continuous optimization**.
 
 ### Core Focus
 
@@ -39,10 +39,10 @@ Practical frameworks and methodologies used to structure and execute SEO work.
 | Framework | Focus |
 |---|---|
 | [Keyword Research](./frameworks/keyword-research/) | Keyword discovery, search intent, clustering, mapping, and prioritization |
-| [Topic Clustering](./frameworks/topic-clustering/) | Pillar pages, supporting content, topical structure, and internal linking |
+| [Topic Clustering](./frameworks/topic-clustering/) | Topic structure, supporting content, page relationships, and internal linking |
 | [On-Page SEO](./frameworks/on-page-seo/) | Titles, headings, content, images, links, UX, and structured data |
 | [Technical SEO](./frameworks/technical-seo/) | Crawlability, indexation, canonicalization, sitemap, redirects, and technical health |
-| [Content Optimization](./frameworks/content-optimization/) | Search intent, content gaps, topical coverage, UX, and conversion |
+| [Content Optimization](./frameworks/content-optimization/) | Search intent, content gaps, topical coverage, UX, and content improvement |
 
 ---
 
@@ -82,7 +82,7 @@ Includes a Google Search Console performance comparison from an actual SEO workf
 Content optimization focused on search intent, content structure, topical coverage, internal linking, UX, and conversion-oriented content.
 
 **Focus:**  
-Content Audit · Search Intent · On-Page SEO · E-E-A-T · UX · Conversion
+Content Audit · Search Intent · On-Page SEO · UX · Conversion
 
 [View Case Study](./case-studies/content-optimization/)
 
@@ -193,53 +193,33 @@ Some projects, including Google Ads and Zalo/ZNS activities, are documented at t
 
 # 🔄 My SEO Workflow
 
-Research  
-↓  
-Search Intent  
-↓  
-Keyword Clustering  
-↓  
-Content & Page Mapping  
-↓  
-Technical Audit  
-↓  
-On-Page Optimization  
-↓  
-Content Optimization  
-↓  
-Internal Linking  
-↓  
-UX / Website Optimization  
-↓  
-Tracking & Measurement  
-↓  
-Continuous Optimization
+**Research → Search Intent → Keyword Clustering → Content & Page Mapping → Technical Audit → On-Page Optimization → Content Optimization → Internal Linking → UX / Website Optimization → Tracking & Measurement → Continuous Optimization**
 
 ---
 
 # 🎯 What This Portfolio Demonstrates
 
-This portfolio demonstrates practical experience across the SEO and digital marketing workflow:
+This portfolio demonstrates practical experience across the SEO and digital marketing workflow.
 
-**Research**
+### Research
 
 Understanding search demand, keywords, search intent, and business priorities.
 
-**Strategy**
+### Strategy
 
 Building keyword clusters, content structures, page mappings, and optimization priorities.
 
-**Implementation**
+### Implementation
 
 Applying SEO, content, WordPress, internal linking, UX, and tracking improvements directly to websites.
 
-**Measurement**
+### Measurement
 
 Using GSC, GA4, and GTM to validate implementation and monitor website performance.
 
-**Optimization**
+### Optimization
 
-Reviewing results, identifying issues, and continuously improving the website and marketing workflow.
+Reviewing available data, identifying issues, and continuously improving the website and marketing workflow.
 
 ---
 
@@ -262,5 +242,5 @@ The purpose of this repository is to demonstrate **practical skills, implementat
 
 # 📫 Contact
 
-- GitHub: https://github.com/ducna28work-ai
-- LinkedIn: https://www.linkedin.com/in/%C4%91%E1%BB%A9c-nguy%E1%BB%85n-6aa674361/
+- GitHub: `ducna28work-ai`
+- LinkedIn: LinkedIn profile
