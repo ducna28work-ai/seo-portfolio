@@ -243,4 +243,4 @@ The purpose of this repository is to demonstrate **practical skills, implementat
 # 📫 Contact
 
 - GitHub: `ducna28work-ai`
-- LinkedIn: linkedin.com/in/đức-nguyễn-6aa674361/
+- LinkedIn: https://www.linkedin.com/in/duc-nguyen-digital/
