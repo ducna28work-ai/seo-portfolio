@@ -1,0 +1,16 @@
+architecture_id,topic,page_role,parent_topic,search_intent,target_page,primary_relationship,internal_link_target,status
+CA-001,Vietnam Travel,Pillar,,Informational,/vietnam-travel-guide/,Main topic hub,/vietnam-itinerary-10-days/,Planned
+CA-002,Vietnam Itineraries,Cluster,Vietnam Travel,Informational,/vietnam-itineraries/,Subtopic of pillar,/vietnam-itinerary-10-days/,Planned
+CA-003,Vietnam 10 Day Itinerary,Supporting,Vietnam Itineraries,Informational,/vietnam-itinerary-10-days/,Specific itinerary topic,/vietnam-itineraries/,Planned
+CA-004,Vietnam 7 Day Itinerary,Supporting,Vietnam Itineraries,Informational,/vietnam-itinerary-7-days/,Specific itinerary topic,/vietnam-itineraries/,Planned
+CA-005,Vietnam Destinations,Cluster,Vietnam Travel,Informational,/vietnam-destinations/,Subtopic of pillar,/hanoi-travel-guide/,Planned
+CA-006,Hanoi Travel Guide,Supporting,Vietnam Destinations,Informational,/hanoi-travel-guide/,Destination-specific content,/vietnam-destinations/,Planned
+CA-007,Ha Long Bay Travel Guide,Supporting,Vietnam Destinations,Informational,/halong-bay-travel-guide/,Destination-specific content,/vietnam-destinations/,Planned
+CA-008,Vietnam Tours,Cluster,Vietnam Travel,Commercial Investigation,/vietnam-tours/,Commercial subtopic,/vietnam-luxury-tours/,Planned
+CA-009,Vietnam Luxury Tours,Supporting,Vietnam Tours,Transactional,/vietnam-luxury-tours/,Commercial service topic,/vietnam-tours/,Planned
+CA-010,Vietnam Family Tours,Supporting,Vietnam Tours,Transactional,/vietnam-family-tours/,Commercial service topic,/vietnam-tours/,Planned
+CA-011,Vietnam Travel Costs,Cluster,Vietnam Travel,Informational,/vietnam-travel-cost/,Cost-related subtopic,/vietnam-itineraries/,Planned
+CA-012,Vietnam Trip Cost by Category,Supporting,Vietnam Travel Costs,Informational,/vietnam-trip-cost-breakdown/,Specific cost topic,/vietnam-travel-cost/,Planned
+CA-013,Vietnam Travel Budget,Supporting,Vietnam Travel Costs,Informational,/vietnam-travel-budget/,Specific planning topic,/vietnam-travel-cost/,Planned
+CA-014,Vietnam Visa,Cluster,Vietnam Travel,Informational,/vietnam-visa-guide/,Important supporting topic,/vietnam-travel-guide/,Planned
+CA-015,Vietnam Visa Requirements,Supporting,Vietnam Visa,Informational,/vietnam-visa-requirements/,Specific visa topic,/vietnam-visa-guide/,Planned
